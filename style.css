@@ -1,0 +1,18 @@
+body{
+    background-color: red;
+}
+h1{
+    font-style: italic;
+    }
+#red {
+    color:red;
+    }
+#yellow {
+    color: yellow;
+}
+#green {
+    color: green;
+}
+#link {
+    color: black; font-style: italic;
+}
